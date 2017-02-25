@@ -1,0 +1,10 @@
+# Intellij
+.idea
+*.iml
+
+# glide
+glide.lock
+vendor
+
+# bin
+katas-go-mergesort
